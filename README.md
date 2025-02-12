@@ -1,6 +1,6 @@
 <h2 align="center">Peace 👋! This is Mostafa Anwar</h2>
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=4F7AEA&width=435&lines=Cloud%2FDevOps+Engineer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=4F7AEA&width=435&lines=Cloud%2FDevOps+Engineer" alt="Typing SVG" /></a>
 ###
 
 <div align="left">
